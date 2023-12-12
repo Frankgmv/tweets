@@ -8,9 +8,9 @@ Proyecto para aprender a usar el LocalStorage de JavaScript
 
 ## Quieres verlo
 
-Para verlo solo abre tu terminal y ubicate en una directorio que quieres
+Para verlo solo abre tu terminal y ubicate en el directorio que quieras
 
-haz git clone 
+Haz git clone 
 
 ```ssh
 
@@ -25,6 +25,11 @@ Abre tu vscode
 ```
 
 **Luego puedes correrlo en tu navegador de preferencia**
+
+>[!Tip]
+>Te recomiendo los siguientes
+> - Chrome
+> - Fire Fox
 
 ## Licencia
 
