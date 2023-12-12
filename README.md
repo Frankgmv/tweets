@@ -6,7 +6,7 @@ Proyecto para aprender a usar el LocalStorage de JavaScript
 > Se debe tener conocimientos básicos en HTML, CSS y JavaScript para desarrollarlo y entenderlo
 
 
-## Quires verlo
+## Quieres verlo
 
 Para verlo solo abre tu terminal y ubicate en una directorio que quieres
 
